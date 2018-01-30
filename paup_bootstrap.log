@@ -1,0 +1,23 @@
+
+P A U P *
+Version 4.0a (build 159) for Unix/Linux (built on Nov 17 2017 at 11:35:17)
+Tue Jan 30 10:36:12 2018
+
+        -----------------------------NOTICE-----------------------------
+          This is an alpha-test version that is still changing rapidly.
+          It will expire on 1 Apr 2018.
+        
+          Please report bugs to dave@phylosolutions.com
+        ----------------------------------------------------------------
+
+
+paup> outgroup 1-2
+
+Outgroup status changed:
+  2 taxa transferred to outgroup
+  Total number of taxa now in outgroup = 2
+  Number of ingroup taxa = 18
+
+paup> set outroot=mono
+
+paup> quit
